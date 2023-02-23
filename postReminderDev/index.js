@@ -8,6 +8,7 @@ const periods = [
     [moment("2022-06-29"), moment("2022-07-09"), `第2回イベント`, `https://example.jp`],
     [moment("2022-11-03"), moment("2022-11-10"), `第5回イベント`, `https://forms.gle/7m6kmN7381VeVmpk6`],
     [moment("2023-01-20"), moment("2023-01-26"), `第6回イベント`, `https://forms.gle/jR2tP9hvEHeBe4KCA`],
+    [moment("2023-02-25"), moment("2023-03-03"), `成果発表会`, `https://forms.gle/gm1h1a5qRhXpxjgm7`],
     [moment("2023-06-29"), moment("2023-07-09"), `第9回イベント`, `https://example.jp`], // TODO: テスト終わったら消す
 ];
 
